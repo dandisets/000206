@@ -43,6 +43,8 @@
 ],
 "dateModified":
 "2021-12-22T20:05:31.948258-08:00",
+"datePublished":
+"2022-01-03T21:19:05.983233+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -73,6 +75,34 @@
 ],
 "path":
 "sub-TIGRE296/sub-TIGRE296_behavior+ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2022-01-03T21:19:05.983233+00:00",
+"id":
+"urn:uuid:be231c73-748c-4ce7-8be4-e3f6d658bbf1",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2022-01-03T21:19:05.983233+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f363abf8-fa44-4fcb-b57c-fa2556da1eff",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "repository":
 "https://dandiarchive.org/",
 "schemaKey":

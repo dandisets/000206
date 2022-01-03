@@ -34,30 +34,45 @@ assetsSummary:
   - ImagingPlane
   - Position
   - OpticalChannel
-citation: Spencer Smith; Joe Canzano; Ryan McGreal (2021) Visual cortical activity
+citation: Smith, Spencer; McGreal, Ryan; Canzano, Joseph (2022) Visual cortical activity
   in mice performing naturalistic virtual foraging task (Version draft) [Data set].
   DANDI archive. https://dandiarchive.org/dandiset/000206/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/02t274463
+    name: University of California Santa Barbara
+    schemaKey: Affiliation
   email: slabcloudcomp@gmail.com
+  identifier: 0000-0002-2021-7034
   includeInCitation: true
-  name: Spencer Smith
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
-- affiliation: []
-  email: jscanzano@ucsb.edu
-  includeInCitation: true
-  name: Joe Canzano
+  name: Smith, Spencer
   roleName:
   - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/02t274463
+    name: University of California Santa Barbara
+    schemaKey: Affiliation
   email: ryanpmcgreal@ucsb.edu
+  identifier: 0000-0001-5849-4312
   includeInCitation: true
-  name: Ryan McGreal
+  name: McGreal, Ryan
   roleName:
   - dcite:ProjectManager
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/02t274463
+    name: University of California Santa Barbara
+    schemaKey: Affiliation
+  email: jscanzano@ucsb.edu
+  identifier: 0000-0002-5371-4846
+  includeInCitation: true
+  name: Canzano, Joseph
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2021-12-14T19:06:13.686855+00:00'
 description: Large FOV two-photon calcium imaging dataset recorded from V1 L2/3 neurons
