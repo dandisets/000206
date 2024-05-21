@@ -5,7 +5,7 @@
 "blob":
 "81dfd6e7-fa21-4ef5-b3cf-00bba905caab",
 "created":
-"2021-12-23T04:05:35.176146+00:00",
+"2021-12-23T04:05:35.176146Z",
 "metadata":
 {
 "@context":
@@ -221,7 +221,7 @@
 ]
 },
 "modified":
-"2021-12-23T13:57:53.801175+00:00",
+"2021-12-23T13:57:53.801175Z",
 "path":
 "sub-TIGRE296/sub-TIGRE296_behavior+ophys.nwb",
 "size":
